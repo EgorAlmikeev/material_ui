@@ -1,6 +1,6 @@
 # material_ui
 
-## index.js
+### index.js
 ```javascript
 import React, { Component as C } from 'react';
 import { render as r } from 'react-dom';
@@ -35,7 +35,7 @@ r(
 );
 ```
 
-## Counter.js
+### Counter.js
 ```javascript
 import React, { Component as C } from 'react';
 class Counter extends C {
